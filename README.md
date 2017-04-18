@@ -1,7 +1,10 @@
-# test coverage for  [react-select (v0.9.1)](https://github.com/JedWatson/react-select#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-select.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-select.svg)](https://travis-ci.org/npmtest/node-npmtest-react-select)
+# npmtest-react-select
+
+#### test coverage for  [react-select (v0.9.1)](https://github.com/JedWatson/react-select#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-select.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-select.svg)](https://travis-ci.org/npmtest/node-npmtest-react-select)
+
 #### A Select control built with and for ReactJS
 
-[![NPM](https://nodei.co/npm/react-select.png?downloads=true)](https://www.npmjs.com/package/react-select)
+[![NPM](https://nodei.co/npm/react-select.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-select)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-react-select/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-select/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-select/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-select/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-select/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-select/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-react-select/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-react-select/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-select/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-react-select/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-react-select%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-react-select/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-select/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-react-select/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-select/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-react-select%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-select/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-react-select/build/test-report.html](https://npmtest.github.io/node-npmtest-react-select/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-react-select/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-react-select/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-react-select/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-select/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-select/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-select/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-react-select/build/screenCapture.npmPackageListing.svg)
 
@@ -84,8 +93,7 @@
     "main": "lib/Select.js",
     "maintainers": [
         {
-            "name": "jedwatson",
-            "email": "jed.watson@me.com"
+            "name": "jedwatson"
         }
     ],
     "name": "react-select",
@@ -94,7 +102,6 @@
         "react": "^0.14.1",
         "react-dom": "^0.14.1"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JedWatson/react-select.git"
